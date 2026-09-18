@@ -8,6 +8,7 @@ Displays the food menu and allow item selection.
 Take item quantities and supports multiple orders.
 Calculates total bill.
 Generate a final reciept.
+console based project
 ## Concepts used
 Variables
 Conditional statements
